@@ -1,0 +1,15 @@
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/bin/Debug/net7.0/Delegates
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/bin/Debug/net7.0/Delegates.deps.json
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/bin/Debug/net7.0/Delegates.runtimeconfig.json
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/bin/Debug/net7.0/Delegates.dll
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/bin/Debug/net7.0/Delegates.pdb
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.AssemblyInfo.cs
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.dll
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/refint/Delegates.dll
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.pdb
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/Delegates.genruntimeconfig.cache
+/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/Debug/net7.0/ref/Delegates.dll
