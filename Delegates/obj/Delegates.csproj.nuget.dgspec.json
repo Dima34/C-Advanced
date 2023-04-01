@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookair/Documents/C#/C-Advanced/Delegates/Delegates.csproj": {}
+    "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Delegates/Delegates.csproj": {}
   },
   "projects": {
-    "/Users/macbookair/Documents/C#/C-Advanced/Delegates/Delegates.csproj": {
+    "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Delegates/Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookair/Documents/C#/C-Advanced/Delegates/Delegates.csproj",
+        "projectUniqueName": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Delegates/Delegates.csproj",
         "projectName": "Delegates",
-        "projectPath": "/Users/macbookair/Documents/C#/C-Advanced/Delegates/Delegates.csproj",
+        "projectPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Delegates/Delegates.csproj",
         "packagesPath": "/Users/macbookair/.nuget/packages/",
-        "outputPath": "/Users/macbookair/Documents/C#/C-Advanced/Delegates/obj/",
+        "outputPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Delegates/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookair/.nuget/NuGet/NuGet.Config"

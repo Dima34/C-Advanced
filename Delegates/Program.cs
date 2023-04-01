@@ -14,7 +14,6 @@ filterHandler += filters.ApplyResize;
 filterHandler += filters.ApplyContrast;
 filterHandler += RemoveRedEye;
 
-FuncDelegate fd = new FuncDelegate();
 
 static void RemoveRedEye(Photo photo)
 {
@@ -28,3 +27,5 @@ processor.Process("...", PhotoFilterAnalogue);
 Console.ReadLine();
 
 delegate void PhotoFilterHandler(Photo photo);
+ReturnNumDelegate fd = new ReturnNumDelegate();
+ReturnStringDelegate returnStringDelegate = new ReturnStringDelegate();

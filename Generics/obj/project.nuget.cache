@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nt8g0ewYWN5Tqjmy2dthIYIpfmewR4fpFePatNl+t/9bsJYrr1RWbPGDTBzVk5TmY/AeiN9G10xXa2aI5X2M1w==",
+  "dgSpecHash": "ed06qlkno3YKRspQ44xgQ2mct1e2w33O8HCQ3HtyTm2mjDr9QB4ptrMqeoIMikeB0taqtNg7YP9gzuoGEc0h7Q==",
   "success": true,
-  "projectFilePath": "/Users/macbookair/Documents/C#/C-Advanced/Generics/Generics.csproj",
+  "projectFilePath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Generics/Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

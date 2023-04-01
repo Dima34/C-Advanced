@@ -1,6 +1,6 @@
 namespace Delegates;
 
-public class FuncDelegate
+public class ReturnNumDelegate
 {
     private char[] _vowels = new[] { 'a', 'e', 'i', 'o', 'u' };
 
@@ -35,7 +35,7 @@ public class FuncDelegate
         return unspokenCount;
     }
 
-    public FuncDelegate(){
+    public ReturnNumDelegate(){
         Func<string, int> StringCounterDelegate = GetWordLength;
         StringCounterDelegate += GetWordVowel;
         StringCounterDelegate += GetWordUnspoken;

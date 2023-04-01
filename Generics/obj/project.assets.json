@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbookair/Documents/C#/C-Advanced/Generics/Generics.csproj",
+      "projectUniqueName": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Generics/Generics.csproj",
       "projectName": "Generics",
-      "projectPath": "/Users/macbookair/Documents/C#/C-Advanced/Generics/Generics.csproj",
+      "projectPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Generics/Generics.csproj",
       "packagesPath": "/Users/macbookair/.nuget/packages/",
-      "outputPath": "/Users/macbookair/Documents/C#/C-Advanced/Generics/obj/",
+      "outputPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Generics/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbookair/.nuget/NuGet/NuGet.Config"
