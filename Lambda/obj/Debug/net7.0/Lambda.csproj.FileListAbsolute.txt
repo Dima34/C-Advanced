@@ -1,0 +1,15 @@
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/bin/Debug/net7.0/Lambda
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/bin/Debug/net7.0/Lambda.deps.json
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/bin/Debug/net7.0/Lambda.runtimeconfig.json
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/bin/Debug/net7.0/Lambda.dll
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/bin/Debug/net7.0/Lambda.pdb
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.AssemblyInfo.cs
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.dll
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/refint/Lambda.dll
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.pdb
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/Lambda.genruntimeconfig.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/Debug/net7.0/ref/Lambda.dll

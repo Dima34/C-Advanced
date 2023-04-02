@@ -25,7 +25,7 @@ PhotoProcessor processor = new PhotoProcessor();
 processor.Process("...", PhotoFilterAnalogue);
 
 Console.ReadLine();
-
-delegate void PhotoFilterHandler(Photo photo);
 ReturnNumDelegate fd = new ReturnNumDelegate();
 ReturnStringDelegate returnStringDelegate = new ReturnStringDelegate();
+
+delegate void PhotoFilterHandler(Photo photo);
