@@ -1,6 +1,6 @@
 ﻿List<Book> books = new BookRepository().GetBooks();
 
-var cheapBooks = books.FindAll(IsCheaper10Dollars);
+var cheapBooks = books.FindAll(b => b.Price < 10);
 
 static bool IsCheaper10Dollars(Book book)
 {
