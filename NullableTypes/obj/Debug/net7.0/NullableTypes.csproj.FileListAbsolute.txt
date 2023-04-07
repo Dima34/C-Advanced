@@ -1,0 +1,15 @@
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/bin/Debug/net7.0/NullableTypes
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/bin/Debug/net7.0/NullableTypes.deps.json
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/bin/Debug/net7.0/NullableTypes.runtimeconfig.json
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/bin/Debug/net7.0/NullableTypes.dll
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/bin/Debug/net7.0/NullableTypes.pdb
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.AssemblyInfo.cs
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.dll
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/refint/NullableTypes.dll
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.pdb
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/NullableTypes.genruntimeconfig.cache
+/Users/macbookair/Documents/C#/C-Sharp-Advanced/NullableTypes/obj/Debug/net7.0/ref/NullableTypes.dll
