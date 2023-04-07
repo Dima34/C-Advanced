@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-Advanced\Events\bin\Debug\net7.0\Events.exe
+D:\C#\C-Sharp-Advanced\Events\bin\Debug\net7.0\Events.deps.json
+D:\C#\C-Sharp-Advanced\Events\bin\Debug\net7.0\Events.runtimeconfig.json
+D:\C#\C-Sharp-Advanced\Events\bin\Debug\net7.0\Events.dll
+D:\C#\C-Sharp-Advanced\Events\bin\Debug\net7.0\Events.pdb
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.AssemblyInfo.cs
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.dll
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\refint\Events.dll
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.pdb
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\Events.genruntimeconfig.cache
+D:\C#\C-Sharp-Advanced\Events\obj\Debug\net7.0\ref\Events.dll
