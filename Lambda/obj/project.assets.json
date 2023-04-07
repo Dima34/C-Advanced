@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/macbookair/.nuget/packages/": {}
+    "C:\\Users\\dimad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/Lambda.csproj",
+      "projectUniqueName": "D:\\C#\\C-Sharp-Advanced\\Lambda\\Lambda.csproj",
       "projectName": "Lambda",
-      "projectPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/Lambda.csproj",
-      "packagesPath": "/Users/macbookair/.nuget/packages/",
-      "outputPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/Lambda/obj/",
+      "projectPath": "D:\\C#\\C-Sharp-Advanced\\Lambda\\Lambda.csproj",
+      "packagesPath": "C:\\Users\\dimad\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\C-Sharp-Advanced\\Lambda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/macbookair/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dimad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/macbookair/.dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,7 +11,9 @@ namespace EncodingSpace
     
     class VideoEncoder
     {
-        public event VideoEncodedHandler VideoEncodedEvent;
+        // public event VideoEncodedHandler VideoEncodedEvent;
+        // public event Action<object, VideoEventArgs> VideoEncodedEvent;
+        public event EventHandler<VideoEventArgs> VideoEncodedEvent; 
 
         public void Encode(Video video)
         {
@@ -31,7 +33,7 @@ namespace EncodingSpace
         } 
     }
 
-    public class VideoEventArgs
+    public class VideoEventArgs : EventArgs
     {
         public string Name { get; set; }
     }
