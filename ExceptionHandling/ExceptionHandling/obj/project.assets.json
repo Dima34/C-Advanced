@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dimad\\.nuget\\packages\\": {}
+    "/Users/macbookair/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectUniqueName": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj",
       "projectName": "ExceptionHandling",
-      "projectPath": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
-      "packagesPath": "C:\\Users\\dimad\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\obj\\",
+      "projectPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj",
+      "packagesPath": "/Users/macbookair/.nuget/packages/",
+      "outputPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/ExceptionHandling/ExceptionHandling/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dimad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/macbookair/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/macbookair/.dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }

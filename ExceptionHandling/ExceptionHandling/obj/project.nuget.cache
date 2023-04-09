@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9iejDYJ6EOA5Q+GxRxZWItadgC2GHHXAe/uqH0ZSpxXGXRbsU9EJFkEsNi+hh/6lJuvE1ZxP3iLnL9O312E2cQ==",
+  "dgSpecHash": "4MMThFAAa/H+X9kqrX3XR9e+y+WlHUnLZdYpTMj3rGZuyF8UWeHBOxYuDTnHyosyRRf1P6vdSnhNUIJWOqcCVg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+  "projectFilePath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/ExceptionHandling/ExceptionHandling/ExceptionHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
