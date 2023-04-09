@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\NullableTypes.csproj",
-      "projectName": "NullableTypes",
-      "projectPath": "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\NullableTypes.csproj",
+      "projectUniqueName": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectName": "ExceptionHandling",
+      "projectPath": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
       "packagesPath": "C:\\Users\\dimad\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\obj\\",
+      "outputPath": "D:\\C#\\C-Sharp-Advanced\\ExceptionHandling\\ExceptionHandling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimad\\AppData\\Roaming\\NuGet\\NuGet.Config",

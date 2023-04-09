@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\NullableTypes.csproj": {}
+    "D:\\C#\\C-Sharp-Advanced\\Dynamic\\Dynamic\\Dynamic.csproj": {}
   },
   "projects": {
-    "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\NullableTypes.csproj": {
+    "D:\\C#\\C-Sharp-Advanced\\Dynamic\\Dynamic\\Dynamic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\NullableTypes.csproj",
-        "projectName": "NullableTypes",
-        "projectPath": "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\NullableTypes.csproj",
+        "projectUniqueName": "D:\\C#\\C-Sharp-Advanced\\Dynamic\\Dynamic\\Dynamic.csproj",
+        "projectName": "Dynamic",
+        "projectPath": "D:\\C#\\C-Sharp-Advanced\\Dynamic\\Dynamic\\Dynamic.csproj",
         "packagesPath": "C:\\Users\\dimad\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\C-Sharp-Advanced\\NullableTypes\\obj\\",
+        "outputPath": "D:\\C#\\C-Sharp-Advanced\\Dynamic\\Dynamic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimad\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\bin\Debug\net7.0\Dynamic.exe
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\bin\Debug\net7.0\Dynamic.deps.json
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\bin\Debug\net7.0\Dynamic.runtimeconfig.json
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\bin\Debug\net7.0\Dynamic.dll
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\bin\Debug\net7.0\Dynamic.pdb
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.AssemblyInfo.cs
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.dll
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\refint\Dynamic.dll
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.pdb
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\Dynamic.genruntimeconfig.cache
+D:\C#\C-Sharp-Advanced\Dynamic\Dynamic\obj\Debug\net7.0\ref\Dynamic.dll
