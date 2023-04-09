@@ -1,0 +1,15 @@
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/bin/Debug/net7.0/AsyngAwait
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/bin/Debug/net7.0/AsyngAwait.deps.json
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/bin/Debug/net7.0/AsyngAwait.runtimeconfig.json
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/bin/Debug/net7.0/AsyngAwait.dll
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/bin/Debug/net7.0/AsyngAwait.pdb
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.AssemblyInfo.cs
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.dll
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/refint/AsyngAwait.dll
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.pdb
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/AsyngAwait.genruntimeconfig.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/Debug/net7.0/ref/AsyngAwait.dll
