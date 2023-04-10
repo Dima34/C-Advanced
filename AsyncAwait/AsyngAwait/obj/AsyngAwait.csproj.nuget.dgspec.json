@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj": {}
+    "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj": {}
   },
   "projects": {
-    "/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj": {
+    "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj",
+        "projectUniqueName": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj",
         "projectName": "AsyngAwait",
-        "projectPath": "/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj",
+        "projectPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncAwait/AsyngAwait/AsyngAwait.csproj",
         "packagesPath": "/Users/macbookair/.nuget/packages/",
-        "outputPath": "/Users/macbookair/Documents/C#/C-Advanced/AsyncAwait/AsyngAwait/obj/",
+        "outputPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncAwait/AsyngAwait/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookair/.nuget/NuGet/NuGet.Config"
