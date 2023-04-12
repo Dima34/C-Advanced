@@ -11,6 +11,13 @@ public class ContentLoader
         Console.WriteLine("Loading end " + DateTime.Now);
     }
 
+    public async Task WaitForAsync(string name)
+    {
+        Console.WriteLine($"Waiting for {name}");
+        await Task.Delay(3000);
+        Console.WriteLine($"{name} is here!");
+    }
+
     public void DownloadMultipleTimes(string url)
     {
         for (int i = 0; i < 64; i++)
@@ -20,6 +27,12 @@ public class ContentLoader
 
         Console.WriteLine("Loaded multiple times");
     }
+
+    public Func<string, Task> delayedPrinter = async (string message) =>
+    {
+        await Task.Delay(3000);
+        Console.WriteLine($"*Delayed printer* {message}");
+    };
     
     private string DownloadHTML(string url)
     {
