@@ -1,0 +1,15 @@
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/bin/Debug/net7.0/AsyncEnchanced
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/bin/Debug/net7.0/AsyncEnchanced.deps.json
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/bin/Debug/net7.0/AsyncEnchanced.runtimeconfig.json
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/bin/Debug/net7.0/AsyncEnchanced.dll
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/bin/Debug/net7.0/AsyncEnchanced.pdb
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.AssemblyInfo.cs
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.dll
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/refint/AsyncEnchanced.dll
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.pdb
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/AsyncEnchanced.genruntimeconfig.cache
+/Users/macbookair/Documents/C#/C-Advanced/AsyncEnchanced/AsyncEnchanced/obj/Debug/net7.0/ref/AsyncEnchanced.dll

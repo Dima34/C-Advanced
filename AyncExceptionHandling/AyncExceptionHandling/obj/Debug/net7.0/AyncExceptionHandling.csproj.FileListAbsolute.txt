@@ -1,0 +1,15 @@
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/bin/Debug/net7.0/AyncExceptionHandling
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/bin/Debug/net7.0/AyncExceptionHandling.deps.json
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/bin/Debug/net7.0/AyncExceptionHandling.runtimeconfig.json
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/bin/Debug/net7.0/AyncExceptionHandling.dll
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/bin/Debug/net7.0/AyncExceptionHandling.pdb
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.csproj.AssemblyReference.cache
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.AssemblyInfoInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.AssemblyInfo.cs
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.dll
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/refint/AyncExceptionHandling.dll
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.pdb
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/AyncExceptionHandling.genruntimeconfig.cache
+/Users/macbookair/Documents/C#/C-Advanced/AyncExceptionHandling/AyncExceptionHandling/obj/Debug/net7.0/ref/AyncExceptionHandling.dll
