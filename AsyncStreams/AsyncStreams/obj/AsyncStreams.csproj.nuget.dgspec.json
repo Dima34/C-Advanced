@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbookair/Documents/C#/C-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj": {}
+    "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj": {}
   },
   "projects": {
-    "/Users/macbookair/Documents/C#/C-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj": {
+    "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbookair/Documents/C#/C-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj",
+        "projectUniqueName": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj",
         "projectName": "AsyncStreams",
-        "projectPath": "/Users/macbookair/Documents/C#/C-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj",
+        "projectPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncStreams/AsyncStreams/AsyncStreams.csproj",
         "packagesPath": "/Users/macbookair/.nuget/packages/",
-        "outputPath": "/Users/macbookair/Documents/C#/C-Advanced/AsyncStreams/AsyncStreams/obj/",
+        "outputPath": "/Users/macbookair/Documents/C#/C-Sharp-Advanced/AsyncStreams/AsyncStreams/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbookair/.nuget/NuGet/NuGet.Config"
